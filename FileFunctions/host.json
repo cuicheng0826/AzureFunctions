@@ -1,0 +1,10 @@
+{
+  "version": "2.0",
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "Rplus_BlobConnectionString": "DefaultEndpointsProtocol=https;AccountName=icewang;AccountKey=HA5UmqnDqKJU/3XCa92/8FQOn9YYDI3s7TGVTwZzbRPVa6D88y2RBdEvV0pVLNFefuE+0F8KECgTWa2Q9wvTPg==;EndpointSuffix=core.chinacloudapi.cn",
+    "TestRplus_BlobConnectionString": "DefaultEndpointsProtocol=https;AccountName=icewang;AccountKey=HA5UmqnDqKJU/3XCa92/8FQOn9YYDI3s7TGVTwZzbRPVa6D88y2RBdEvV0pVLNFefuE+0F8KECgTWa2Q9wvTPg==;EndpointSuffix=core.chinacloudapi.cn"
+  }
+}
